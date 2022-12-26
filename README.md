@@ -6,6 +6,8 @@ Basically a sentiment analysis problem consists of a classification problem, whe
 
 Regarding the data, we are going to download the data from [AI Stanford Dataset](https://ai.stanford.edu/~amaas/data/sentiment/).
 
+Complete Project on: Sentiment_Analysis_NLP.ipynb
+
 ### These are the objectives of the project:
 
 * Read data that is not in a traditional format.
