@@ -41,7 +41,7 @@ Regarding the data, we are going to download the data from [AI Stanford Dataset]
 
     So wehave 6 combinations, which we compare in a plot to evaluate the results    
     
-    
+    ![](https://github.com/DaDeCar/Sentiment-Analysis-with-NLP/blob/d9b025f455097b948fc06cfec94eb8afac89b71c/images/random_forest_roc_Auc%C3%A7.jpg)
     
     
     
