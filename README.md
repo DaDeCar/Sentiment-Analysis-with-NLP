@@ -61,3 +61,6 @@ Regarding the data, we are going to download the data from [AI Stanford Dataset]
     2.1 Wikipedia
     
     2.2 Twitter
+
+    ### Pre-trained models results:
+    ![](https://github.com/DaDeCar/Sentiment-Analysis-with-NLP/blob/39fcf66daa7c6b4ca67158691b6edaf6e0c6cfb0/images/wiki_twitter_comparisson.jpg)
