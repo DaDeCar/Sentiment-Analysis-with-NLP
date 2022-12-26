@@ -16,6 +16,8 @@ Regarding the data, we are going to download the data from [AI Stanford Dataset]
 
 * Train a sentiment analysis model that allows us to detect positive and negative opinions in movie reviews.
 
+### ML models:
+
 1. We train a word embedding from scratch, using:
 
     1.1 Random Forest classifier
@@ -28,7 +30,7 @@ Regarding the data, we are going to download the data from [AI Stanford Dataset]
 
     * BoW
 
-Besides, we use three methods to normalize the corpus:
+    Besides, we use three methods to normalize the corpus:
 
     * Lemmatization
 
@@ -37,7 +39,7 @@ Besides, we use three methods to normalize the corpus:
     * No Lemma or Stemm (just simple normalization)
 
 
-So wehave 6 combinations, which we compare in a plot to evaluate the results    
+    So wehave 6 combinations, which we compare in a plot to evaluate the results    
     
     
     
