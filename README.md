@@ -43,6 +43,7 @@ Regarding the data, we are going to download the data from [AI Stanford Dataset]
     
     ![](https://github.com/DaDeCar/Sentiment-Analysis-with-NLP/blob/d9b025f455097b948fc06cfec94eb8afac89b71c/images/random_forest_roc_Auc%C3%A7.jpg)
     
+    ![](https://github.com/DaDeCar/Sentiment-Analysis-with-NLP/blob/440b3e76b455d103bf8f7f8c9118a9ebb29bfd92/images/random_lightGBM_Auc.jpg)
     
     
     
