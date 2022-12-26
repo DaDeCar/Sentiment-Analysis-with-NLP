@@ -15,3 +15,40 @@ Regarding the data, we are going to download the data from [AI Stanford Dataset]
 * Vectorize the data in order to apply a machine learning model to it: using BoW or TF-IDF.
 
 * Train a sentiment analysis model that allows us to detect positive and negative opinions in movie reviews.
+
+1. We train a word embedding from scratch, using:
+
+    1.1 Random Forest classifier
+    
+    1.2 LightGBM classifier
+
+   We use the two methods for vectorizing:
+
+    * IF-TDF
+
+    * BoW
+
+Besides, we use three methods to normalize the corpus:
+
+    * Lemmatization
+
+    * Stemm
+
+    * No Lemma or Stemm (just simple normalization)
+
+
+So wehave 6 combinations, which we compare in a plot to evaluate the results    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+2. We train a word embedding from scratch, using pre-trained models:
+
+    2.1 Wikipedia
+    
+    2.2 Twitter
